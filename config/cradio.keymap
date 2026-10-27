@@ -110,7 +110,7 @@
           &kp EXCL     &kp ASTRK  &kp FSLH   &kp EQUAL &kp AMPS        &kp HASH   &kp LPAR   &kp RPAR   &kp BSLH  &kp QMARK
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  ~       │  +       │  [       │ ]        │ %        │   │  @       │  _       │  '       │  ;       │  .       │
-            &kp TILDE  &kp PLUS   &kp LBKT  &kp RBKT   &kp PRCNT       &kp AT     &UNDER     &kp APOS     &kp SEMI   &kp DOT
+            &kp TILDE  &kp PLUS   &kp LBKT  &kp RBKT   &kp PRCNT       &kp AT     &kp UNDER  &kp APOS   &kp SEMI   &kp DOT
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &trans     &trans         &trans     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
